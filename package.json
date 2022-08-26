@@ -1,0 +1,25 @@
+{
+
+  "name": "-fullstack_course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviYadav369/-fullstack_course.git"
+  },
+  "author": "Ravi Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaviYadav369/-fullstack_course/issues"
+  },
+  "homepage": "https://github.com/RaviYadav369/-fullstack_course#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
